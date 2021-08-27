@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "61265b2ae1bc553fea9b23e0"
+  },
+  "name": "Feminino",
+  "ancestors": "[]",
+  "parent": "null"
+},{
+  "_id": {
+    "$oid": "61265b43e1bc553fea9b23e2"
+  },
+  "name": "Masculino",
+  "ancestors": "[]",
+  "parent": "null"
+},{
+  "_id": {
+    "$oid": "61265b59e1bc553fea9b23e4"
+  },
+  "name": "Novidades",
+  "ancestors": "[]",
+  "parent": "null"
+},{
+  "_id": {
+    "$oid": "61265b73e1bc553fea9b23e6"
+  },
+  "name": "Designers",
+  "ancestors": "[]",
+  "parent": "null"
+},{
+  "_id": {
+    "$oid": "61265bb3e1bc553fea9b23e8"
+  },
+  "name": "Gucci",
+  "ancestors": "Designers",
+  "parent": "Designers"
+},{
+  "_id": {
+    "$oid": "61265bd1e1bc553fea9b23eb"
+  },
+  "name": "Givenchy",
+  "ancestors": "Designers",
+  "parent": "Designers"
+},{
+  "_id": {
+    "$oid": "61265bdfe1bc553fea9b23ed"
+  },
+  "name": "Balenciaga",
+  "ancestors": "Designers",
+  "parent": "Designers"
+},{
+  "_id": {
+    "$oid": "61265bf6e1bc553fea9b23ef"
+  },
+  "name": "Balmain",
+  "ancestors": "Designers",
+  "parent": "Designers"
+},{
+  "_id": {
+    "$oid": "61265c3de1bc553fea9b23f1"
+  },
+  "name": "Masculino",
+  "ancestors": "Novidades",
+  "parent": "Novidades"
+},{
+  "_id": {
+    "$oid": "61265c4be1bc553fea9b23f3"
+  },
+  "name": "Feminino",
+  "ancestors": "Novidades",
+  "parent": "Novidades"
+},{
+  "_id": {
+    "$oid": "61265de7e1bc553fea9b23f5"
+  },
+  "name": "Designers",
+  "ancestors": "Novidades",
+  "parent": "Novidades"
+},{
+  "_id": {
+    "$oid": "61265e34e1bc553fea9b23f7"
+  },
+  "name": "Bolsas",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": {
+    "$oid": "61265e3fe1bc553fea9b23f9"
+  },
+  "name": "Sapatos",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": {
+    "$oid": "61265e4de1bc553fea9b23fb"
+  },
+  "name": "Relógios",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": {
+    "$oid": "61265e5ae1bc553fea9b23fd"
+  },
+  "name": "Roupas",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": {
+    "$oid": "61265e66e1bc553fea9b23ff"
+  },
+  "name": "Joias",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": {
+    "$oid": "61266ceae1bc553fea9b2415"
+  },
+  "name": "Camisa",
+  "ancestors": [
+    "Masculino",
+    "Roupas"
+  ],
+  "parent": "Roupas"
+},{
+  "_id": {
+    "$oid": "61266d34e1bc553fea9b2417"
+  },
+  "name": "Jaqueta",
+  "ancestors": [
+    "Masculino",
+    "Roupas"
+  ],
+  "parent": "Roupas"
+},{
+  "_id": {
+    "$oid": "6126b27de1bc553fea9b2454"
+  },
+  "name": "Bermuda",
+  "ancestors": [
+    "Masculino",
+    "Roupas"
+  ],
+  "parent": "Roupas"
+},{
+  "_id": {
+    "$oid": "6126b3bee1bc553fea9b245d"
+  },
+  "name": "Calça",
+  "ancestors": [
+    "Masculino",
+    "Roupas"
+  ],
+  "parent": "Roupas"
+}]
