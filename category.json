@@ -1,0 +1,113 @@
+[{
+  "_id": "cat01",
+  "name": "Feminino",
+  "ancestors": "[]",
+  "parent": "null"
+},{
+  "_id": "cat02",
+  "name": "Masculino",
+  "ancestors": "[]",
+  "parent": "null"
+},{
+  "_id": "cat03",
+  "name": "Novidades",
+  "ancestors": "[]",
+  "parent": "null"
+},{
+  "_id": "cat04",
+  "name": "Designers",
+  "ancestors": "[]",
+  "parent": "null"
+},{
+  "_id": "sub01cat04",
+  "name": "Gucci",
+  "ancestors": "Designers",
+  "parent": "Designers"
+},{
+  "_id": "sub02cat04",
+  "name": "Givenchy",
+  "ancestors": "Designers",
+  "parent": "Designers"
+},{
+  "_id": "sub03cat04",
+  "name": "Balenciaga",
+  "ancestors": "Designers",
+  "parent": "Designers"
+},{
+  "_id": "sub04cat04",
+  "name": "Balmain",
+  "ancestors": "Designers",
+  "parent": "Designers"
+},{
+  "_id": "sub01cat03",
+  "name": "Masculino",
+  "ancestors": "Novidades",
+  "parent": "Novidades"
+},{
+  "_id": "sub02cat03",
+  "name": "Feminino",
+  "ancestors": "Novidades",
+  "parent": "Novidades"
+},{
+  "_id": "sub03cat03",
+  "name": "Designers",
+  "ancestors": "Novidades",
+  "parent": "Novidades"
+},{
+  "_id": "sub01cat02",
+  "name": "Bolsas",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": "sub02cat02",
+  "name": "Sapatos",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": "sub03cat02",
+  "name": "Relógios",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": "sub04cat02",
+  "name": "Roupas",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": "sub05cat02",
+  "name": "Joias",
+  "ancestors": "Masculino",
+  "parent": "Masculino"
+},{
+  "_id": "sub01sub04cat02",
+  "name": "Camisa",
+  "ancestors": [
+    "Masculino",
+    "Roupas"
+  ],
+  "parent": "Roupas"
+},{
+  "_id": "sub02sub04cat02",
+  "name": "Jaqueta",
+  "ancestors": [
+    "Masculino",
+    "Roupas"
+  ],
+  "parent": "Roupas"
+},{
+  "_id": "sub03sub04cat02",
+  "name": "Bermuda",
+  "ancestors": [
+    "Masculino",
+    "Roupas"
+  ],
+  "parent": "Roupas"
+},{
+  "_id": "sub04sub04cat02",
+  "name": "Calça",
+  "ancestors": [
+    "Masculino",
+    "Roupas"
+  ],
+  "parent": "Roupas"
+}]
