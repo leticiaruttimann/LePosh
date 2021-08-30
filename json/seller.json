@@ -1,0 +1,122 @@
+[{
+  "_id": "LJ001",
+  "name": "Loja Ruttimann",
+  "rating": 5,
+  "classification": "Expert",
+  "total_sales": 80,
+  "contact_info": {
+    "country": "Estados Unidos",
+    "email": "ruttimann@gmail.com"
+  },
+  "joined": "2019-01-01"
+},{
+  "_id": "LJ006",
+  "name": "Swiss Luxury Items",
+  "rating": 4.3,
+  "classification": "Premium",
+  "total_sales": 1,
+  "contact_info": {
+    "country": "Brasil",
+    "email": "swissitems@gmail.com"
+  },
+  "joined": "2021-01-01"
+},{
+  "_id": "LJ003",
+  "name": "Loja Só Luxo",
+  "rating": 4.7,
+  "classification": "Premium",
+  "total_sales": 4,
+  "contact_info": {
+    "country": "Suíça",
+    "email": "soluxo@gmail.com"
+  },
+  "joined": "2021-07-14"
+},{
+  "_id": "LJ002",
+  "name": "Loja Moretti",
+  "rating": 4,
+  "classification": "null",
+  "total_sales": 0,
+  "contact_info": {
+    "country": "Brasil",
+    "email": "soluxo@gmail.com"
+  },
+  "joined": "2021-08-01"
+},{
+  "_id": "LJ005",
+  "name": "Canada Imports",
+  "rating": 4.9,
+  "classification": "Profissional",
+  "total_sales": 560,
+  "contact_info": {
+    "country": "Canada",
+    "email": "canimports@gmail.com"
+  },
+  "joined": "2017-08-14"
+},{
+  "_id": "LJ004",
+  "name": "Brazil Imports",
+  "rating": 4.3,
+  "classification": "Profissional",
+  "total_sales": 860,
+  "contact_info": {
+    "country": "Brasil",
+    "email": "braim@gmail.com"
+  },
+  "joined": "2015-03-29"
+},{
+  "_id": "LJ007",
+  "name": "Zhuzhu imports",
+  "rating": 0,
+  "classification": "null",
+  "total_sales": 0,
+  "contact_info": {
+    "country": "Estados Unidos",
+    "email": "zhuzhu@gmail.com"
+  },
+  "joined": "2020-02-05"
+},{
+  "_id": "LJ008",
+  "name": "Danee",
+  "rating": 0,
+  "classification": "null",
+  "total_sales": 0,
+  "contact_info": {
+    "country": "Dinamarca",
+    "email": "danee@gmail.com"
+  },
+  "joined": "2021-01-30"
+},{
+  "_id": "LJ009",
+  "name": "Toni S.",
+  "rating": 0,
+  "classification": "null",
+  "total_sales": 0,
+  "contact_info": {
+    "country": "Canada",
+    "email": "toniida@gmail.com"
+  },
+  "joined": "2020-09-10"
+},{
+  "_id": "LJ010",
+  "name": "Gemma M.",
+  "rating": 0,
+  "classification": "null",
+  "total_sales": 0,
+  "contact_info": {
+    "country": "Italia",
+    "email": "gemma@gmail.com"
+  },
+  "joined": "2020-12-15"
+},{
+  "_id": "LJ011",
+  "name": "Laura Mateuti",
+  "rating": 0,
+  "classification": "null",
+  "total_sales": 0,
+  "contact_info": {
+    "country": "Italia",
+    "email": "lmateuti@gmail.com"
+  },
+  "joined": "2021-03-15"
+}]
